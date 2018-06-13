@@ -1,0 +1,8 @@
+{
+  "serverUrl": "http://47.96.142.151:8988/io-services/",
+  "testLocalIp": "本地IP：127.0.0.1",
+  "testServerIp": "服务器IP: 10.37.0.113",
+  "succCode": "000000",
+  "loginName": "admin",
+  "cusHight": "265"
+}
