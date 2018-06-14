@@ -52,6 +52,9 @@
 }
 
 .left {
+	display: flex;
+	justify-content: center;
+	align-items: center;
   float: left;
   padding-left: 28%;
   width: 70%;
